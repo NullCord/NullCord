@@ -1,6 +1,6 @@
 <!-- БАННЕР -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%9A%D0%B0%D0%B9+%F0%9F%91%8B;Backend+Developer+%7C+Python+%F0%9F%90%8D;Discord+Bot+Developer+%F0%9F%A4%96;ADM+TAS+%D0%B2+Ranked+Duels+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%9A%D0%B0%D0%B9+%F0%9F%91%8B;Backend+Developer+%7C+Python+%F0%9F%90%8D;Discord+Bot+Developer+%F0%9F%A4%96;ADM+TAS+%D0%B2+Ranked+Duels+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 
@@ -41,9 +41,7 @@
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| [🎮 Discord Bot](https://github.com/USERNAME/DISCORD-BOT) | Многофункциональный бот с экономикой, системой ролей и мини-играми | Python, discord.py |
-| [📦 Flask File Uploader](https://github.com/USERNAME/FLASK-UPLOADER) | Загрузка файлов через drag’n’drop и Ctrl+V с авторизацией | Python, Flask |
-| [⚔️ Ranked Duels Tools](https://github.com/USERNAME/RANKED-DUELS) | Скрипты и инструменты для проекта Ranked Duels | Python |
+| [⚔️ Ranked Duels Tools](https://discord.gg/fz2Mvz25AY) | Проект для проведения рейтинговых игр | Discord.py, PyMySQL |
 
 ---
 
