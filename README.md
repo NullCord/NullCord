@@ -26,12 +26,12 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tessiebl0&show_icons=true&theme=tokyonight&hide_border=true" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tessiebl0&theme=tokyonight&hide_border=true" height="165px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tessiebl0&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -49,8 +49,7 @@
 ## 📫 Контакты
 
 <p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/1212710936859901992"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
