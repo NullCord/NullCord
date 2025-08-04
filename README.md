@@ -1,6 +1,6 @@
 <!-- БАННЕР -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=Привет!+Я+Кай+👋;Backend+Developer+%7C+Python+🐍;Discord+Bot+Developer+🤖;ADM+TAS+в+Ranked+Duels+⚔️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%9A%D0%B0%D0%B9+%F0%9F%91%8B;Backend+Developer+%7C+Python+%F0%9F%90%8D;Discord+Bot+Developer+%F0%9F%A4%96;ADM+TAS+%D0%B2+Ranked+Duels+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
