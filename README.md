@@ -41,7 +41,7 @@
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| [⚔️ Ranked Duels Tools](https://discord.gg/fz2Mvz25AY) | Проект для проведения рейтинговых игр | Discord.py, PyMySQL |
+| [⚔️ Ranked Duels](https://discord.gg/fz2Mvz25AY) | Проект для проведения рейтинговых игр | Discord.py, PyMySQL |
 
 ---
 
