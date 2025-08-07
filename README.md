@@ -1,56 +1,52 @@
-<!-- БАННЕР -->
+<!-- Плавный неон-баннер -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%9A%D0%B0%D0%B9+%F0%9F%91%8B;Backend+Developer+%7C+Python+%F0%9F%90%8D;Discord+Bot+Developer+%F0%9F%A4%96;ADM+TAS+%D0%B2+Ranked+Duels+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey,+я+Кай+🚀;Backend+Developer+—+Python+🐍;Discord+Bot+Developer+🤖;ADM+TAS+в+Ranked+Duels+⚔️" alt="Typing SVG" />
 </p>
 
+<!-- Неоновая разделительная линия -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 💎 Обо мне
+🎯 **Backend-разработчик** (Python, Flask, FastAPI)  
+🤖 **Создатель Discord-ботов** с API, экономикой и мини-играми  
+⚔️ **ADM TAS** в проекте Ranked Duels  
+🚀 Люблю автоматизацию и масштабируемые решения  
+📚 Постоянно изучаю новые технологии и поднимаю скилл  
 
 ---
 
-## 🚀 Обо мне
-
-- 💻 **Backend-разработчик** (Python, Flask, FastAPI)
-- 🤖 **Разработчик Discord-ботов** с интеграциями API, экономикой, мини-играми
-- ⚔️ **ADM TAS** в проекте **Ranked Duels**
-- 🎯 Люблю создавать автоматизацию и оптимизировать процессы
-- 📚 Постоянно изучаю новые технологии
-
----
-
-## 🛠️ Технологии и инструменты
-
+## 🛠️ Стек технологий
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,sqlite,postgresql,git,github,linux,vscode,discord,bots" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,sqlite,postgresql,git,github,linux,vscode,discord&theme=dark" />
 </p>
 
 ---
 
 ## 📊 GitHub Статистика
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tessiebl0&show_icons=true&theme=tokyonight&hide_border=true" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tessiebl0&theme=tokyonight&hide_border=true" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tessiebl0&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tessiebl0&theme=radical&hide_border=true" height="165px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tessiebl0&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tessiebl0&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🌟 Мои проекты
-
+## 🚀 Проекты
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| [⚔️ Ranked Duels](https://discord.gg/fz2Mvz25AY) | Проект для проведения рейтинговых игр | Discord.py, PyMySQL |
+| [⚔️ Ranked Duels](https://discord.gg/fz2Mvz25AY) | Рейтинговые PvP-игры с системой уровней, экономики и турниров | Discord.py, PyMySQL |
 
 ---
 
-## 📫 Контакты
-
+## 📬 Контакты
 <p align="center">
-  <a href="https://discord.com/users/1212710936859901992"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.com/users/1212710936859901992"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
----
-
-⭐ Если тебе понравились мои проекты — не забудь поставить **Star** на репозитории!
+<!-- Футер с цитатой -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=FF1177&center=true&vCenter=true&width=800&lines=Код+—+это+искусство,+а+я+—+его+художник.">
+</p>
