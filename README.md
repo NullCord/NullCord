@@ -1,7 +1,8 @@
 <!-- Плавный неон-баннер -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey,+я+Кай+🚀;Backend+Developer+—+Python+🐍;Discord+Bot+Developer+🤖;ADM+TAS+в+Ranked+Duels+⚔️" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Backend--Developer-Python🐍-brightgreen?style=for-the-badge&logo=python&logoColor=white">
 </p>
+
 
 <!-- Неоновая разделительная линия -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
