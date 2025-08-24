@@ -47,7 +47,4 @@
   <a href="https://discord.com/users/1212710936859901992"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
-<!-- Футер с цитатой -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=FF1177&center=true&vCenter=true&width=800&lines=Код+—+это+искусство,+а+я+—+его+художник.">
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
