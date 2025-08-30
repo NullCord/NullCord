@@ -25,8 +25,8 @@
 
 ## 📊 GitHub Статистика
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tessiebl0&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tessiebl0&theme=radical&hide_border=true" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NullCord&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NullCord&theme=radical&hide_border=true" height="165px" />
 </p>
 
 <p align="center">
